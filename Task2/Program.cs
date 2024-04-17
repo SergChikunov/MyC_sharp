@@ -28,3 +28,16 @@ Console.WriteLine(quotient);
 d1 = 6;
 double quotient2 = i1 / d1;
 Console.WriteLine(quotient2);
+
+
+int val1 = 10;
+int val2 = 11;
+int val3 = 20;
+float fval4 = 22;
+
+int product4 = val1 * val2;
+float sum4 = val3 + fval4;
+float divide1 = product4 / sum4;
+Console.WriteLine(product4);
+Console.WriteLine(sum4);
+Console.WriteLine(divide1);
