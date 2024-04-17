@@ -1,0 +1,14 @@
+G:\GB\Lang_C\Lesson_01\Task4\bin\Debug\net7.0\Task4.exe
+G:\GB\Lang_C\Lesson_01\Task4\bin\Debug\net7.0\Task4.deps.json
+G:\GB\Lang_C\Lesson_01\Task4\bin\Debug\net7.0\Task4.runtimeconfig.json
+G:\GB\Lang_C\Lesson_01\Task4\bin\Debug\net7.0\Task4.dll
+G:\GB\Lang_C\Lesson_01\Task4\bin\Debug\net7.0\Task4.pdb
+G:\GB\Lang_C\Lesson_01\Task4\obj\Debug\net7.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Lang_C\Lesson_01\Task4\obj\Debug\net7.0\Task4.AssemblyInfoInputs.cache
+G:\GB\Lang_C\Lesson_01\Task4\obj\Debug\net7.0\Task4.AssemblyInfo.cs
+G:\GB\Lang_C\Lesson_01\Task4\obj\Debug\net7.0\Task4.csproj.CoreCompileInputs.cache
+G:\GB\Lang_C\Lesson_01\Task4\obj\Debug\net7.0\Task4.dll
+G:\GB\Lang_C\Lesson_01\Task4\obj\Debug\net7.0\refint\Task4.dll
+G:\GB\Lang_C\Lesson_01\Task4\obj\Debug\net7.0\Task4.pdb
+G:\GB\Lang_C\Lesson_01\Task4\obj\Debug\net7.0\Task4.genruntimeconfig.cache
+G:\GB\Lang_C\Lesson_01\Task4\obj\Debug\net7.0\ref\Task4.dll
